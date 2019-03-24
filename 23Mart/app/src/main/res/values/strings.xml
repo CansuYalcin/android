@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">23Mart</string>
+    <string name="kamera">Kamera</string>
+    <string name="ses">Ses</string>
+    <string name="web">Web</string>
+    <string name="harita">Harita</string>
+    <string name="sms">SMS</string>
+    <string name="arama">Arama</string>
+    <string name="telHint">Numarayı Giriniz...</string>
+    <string name="mesajHint">Mesajınızı yazınız...</string>
+    <string name="mesajGonder">Mesaj Gönder</string>
+    <string name="fotoCekBtn">Fotoğraf Çek</string>
+    <string name="videoCekBtn">Video Çek</string>
+    <string name="aramaBtn">Aramayı Başlat</string>
+    <string name="haritaBtn">Haritaya Git</string>
+</resources>
