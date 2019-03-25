@@ -13,4 +13,8 @@
     <string name="videoCekBtn">Video Çek</string>
     <string name="aramaBtn">Aramayı Başlat</string>
     <string name="haritaBtn">Haritaya Git</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="cal">Çal</string>
+    <string name="durdur">Durdur</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

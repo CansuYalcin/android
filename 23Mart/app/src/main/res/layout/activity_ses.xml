@@ -7,6 +7,46 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".SesActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_margin="5dp">
 
+    <ImageView
+        android:id="@+id/sesImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ses" />
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/kaydetBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/kaydet"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginRight="5dp"/>
+
+        <Button
+            android:id="@+id/durdurBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/durdur"
+            android:background="@color/colorPrimaryDark"
+            android:layout_marginRight="5dp"/>
+
+        <Button
+            android:id="@+id/calBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cal"
+            android:background="@color/colorPrimaryDark"/>
+    </LinearLayout>
 </LinearLayout>

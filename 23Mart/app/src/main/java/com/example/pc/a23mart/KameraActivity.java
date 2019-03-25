@@ -66,8 +66,8 @@ public class KameraActivity extends AppCompatActivity {
             case IMAGE_ACTION_CODE :
                 Log.i("kklklkl","mdlkflksdjşfjşflkşflkfş");
                 Bundle extras = data.getExtras();
-                //((ImageView) findViewById(R.id.foto)).setImageBitmap((Bitmap) extras.get("data"));
-                foto.setImageBitmap((Bitmap) extras.get("data"));
+                ((ImageView) findViewById(R.id.foto)).setImageBitmap((Bitmap) extras.get("data"));
+                //foto.setImageBitmap((Bitmap) extras.get("data"));
                 break;
             default:
                 break;

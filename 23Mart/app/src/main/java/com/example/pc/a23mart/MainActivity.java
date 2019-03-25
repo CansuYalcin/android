@@ -1,5 +1,6 @@
 package com.example.pc.a23mart;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button kamera, ses,harita,web,sms,arama;
 
+    @SuppressLint("WrongViewCast")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -70,5 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(kameraYonlendirme);
             }
         });
+
+
     }
 }

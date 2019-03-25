@@ -98,4 +98,5 @@
             android:fontFamily="casual"
             android:textStyle="bold"/>
     </LinearLayout>
+
 </LinearLayout>
