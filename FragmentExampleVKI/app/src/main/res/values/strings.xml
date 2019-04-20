@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FragmentExampleVKI</string>
+    <string name="home">Home</string>
+    <string name="health">Health</string>
+    <string name="diet">Diet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="vki">Vücut Kitle İndeksi Hesepla</string>
+    <string name="boyHint">Boyunuzu giriniz...</string>
+    <string name="kiloHint">Kilonuzu giriniz...</string>
+    <string name="hesaplaBtn">VKİ Hesepla</string>
+    <string name="asiriZayif">Aşırı Zayıf</string>
+    <string name="zayif">Zayıf</string>
+    <string name="normal">Normal</string>
+    <string name="morbid">Aşırı Şişman (Morbid Obez)</string>
+    <string name="vki2">Vücut Kitle İndeksiniz : </string>
+    <string name="healthy_hint">Sağlıklı yaşam için ipuçları. \n 1. Dengeli beslenin \n Güne sağlam bir kahvaltı ile başlamak sağlıklı yaşam
+        için olmazsa olmazlardan biridir. Dengeli beslenirken öncelikli olarak dikkat edilmesi gereken şey mevsim sebze ve meyvelerini tüketmektir. Mevsiminde yetiştirilen meyve ve sebzeler daha sağlıklı olur, özel ortam ve destek gerektirmez. Günde 3 ana öğün, 3 de ara öğün yapmak gerekir. Bol su içilmeli, yağ oranı düşük, karbonhidrat ve protein oranı orantılı yiyecekler tercih edilmelidir.
+        \n 2. Düzenli uyuyun \n Bağışıklık sisteminizin dinlenmesine müsaade etmeliyiz. Bağışıklık ve deliksiz bir uyku uyumak birbirine
+        bağımlı iki şey olduğu için kronik uykusuzluk, bağışıklığınızın zarar görmesine neden olur ve vücudunuzun hastalıklarla savaşmasını
+        engeller.
+        \n 3. Spor yapın \n Vücudun spora en hazır olduğu vakit akşamdır. Ancak her zaman spor yapılabilir.
+        Bacak, karın, kol, göğüs ve bel kaslarını çalıştıracak aktiviteler oldukça önemlidir. Hayatınız boyunca yapacaksanız günde
+        10 dakikalık hafif tempo koşu ve 10 dakikalık (Mekik, yan mekik, ayak gerdirme) hareketleri yeterli olur. Haftada 3 kez spor
+        yapabiliyorsanız en az 20 dakika, daha az zaman ayırıyorsanız en az 45 dakika olmalıdır.
+        \n 4.Beyninizi aktif tutun \n Bulmacalar, zeka oyunları, zeka soruları ve hafıza teknikleri beyni aktif tutar.
+        Ama yorulduğunuzda beyninizi zorlamayın. Her gün okuyacağınız 20 sayfalık bir kitap, yemeklerinizde kullanacağınız baharatlar
+        (Özellikle zerdeçal, safran, tarçın) beynin aktif kalmasına yardımcı olur. Her gün, her alanda yeni tadlar almaya çalışın.
+    </string>
+    <string name="titleText">Sağlıklı Olmak için 5 ipucu</string>
+</resources>
